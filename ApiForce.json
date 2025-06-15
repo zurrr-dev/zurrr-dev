@@ -1,4 +1,4 @@
-({
+{
   status: true,
   criador: "ZurokuApi",
   resultado: {
@@ -47,4 +47,4 @@
       }
     }
   }
-})
+}
